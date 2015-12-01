@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["d","a","t","e","tab"], "command": "scrapt", 
+		"args": { "op": "date" }
+	}
+]
